@@ -30,7 +30,7 @@ module.exports = {
 	rules: {
 		"no-param-reassign": "off",
 		'no-plusplus': 'off',
-		'indent': ['error', 6],
+		'indent': ['error', 2],
 		"react/jsx-filename-extension": "off",
 		"react/forbid-prop-types": "off",
 		"react/destructuring-assignment": "off",
