@@ -5,3 +5,10 @@ node_js:
 cache:
       directories:
             - node_modules
+
+install:
+      - 'yarn add coveralls'
+
+script:
+      - jest --coverage --coverageReporters=text-lcov --detectOpenHandles --forceExit | coveralls
+      - yarn build
