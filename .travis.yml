@@ -5,10 +5,3 @@ node_js:
 cache:
       directories:
             - node_modules
-
-notifications:
-      email:
-            recipients:
-                  - email@address.com
-            on_success: change
-            on_failure: change
