@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Build Status](https://travis-ci.org/bstenm/my-react-boilerplate.svg?branch=master)](https://travis-ci.org/bstenm/my-react-boilerplate) [![Known Vulnerabilities](https://snyk.io/test/github/bstenm/my-react-boilerplate/badge.svg?targetFile=package.json)](https://snyk.io/test/github/bstenm/my-react-boilerplate?targetFile=package.json) [![Coverage Status](https://coveralls.io/repos/github/bstenm/my-react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/bstenm/my-react-boilerplate?branch=master) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=bstenm/my-react-boilerplate)](https://dependabot.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
