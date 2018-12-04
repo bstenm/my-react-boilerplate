@@ -2,9 +2,9 @@ React boilerplate with custom linting and prettier for code formatting, testing 
 
 [![Build Status](https://travis-ci.org/bstenm/my-react-boilerplate.svg?branch=master)](https://travis-ci.org/bstenm/my-react-boilerplate) [![Coverage Status](https://coveralls.io/repos/github/bstenm/my-react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/bstenm/my-react-boilerplate?branch=master) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=bstenm/my-react-boilerplate)](https://dependabot.com)
 
-## Available Scripts
+#### githook
 
-In the project directory, you can run:
+It runs the linter on the files staged on each git commit.
 
 #### `yarn start`
 
